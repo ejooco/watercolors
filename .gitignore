@@ -1,0 +1,9 @@
+.venv
+*.webp
+*.jpg
+*.jpeg
+*.png
+
+.DS_Store
+
+watercolour/.DS_Store
